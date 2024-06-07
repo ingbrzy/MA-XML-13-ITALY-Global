@@ -10,6 +10,7 @@
     <string name="download_queued">In coda</string>
     <string name="download_remaining">%s rimanenti</string>
     <string name="download_running">Download in corso</string>
+    <string name="download_running_percent">Download in corso %s</string>
     <string name="download_unknown_title">&lt;Senza titolo></string>
     <string name="notif_title_file_size">%1$d in totale</string>
     <string name="notif_title_single_downloading">Download in corso %1$s</string>

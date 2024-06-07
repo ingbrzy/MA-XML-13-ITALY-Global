@@ -182,6 +182,8 @@
     <string name="feedback_custom_hint">Descrivi il problema riscontrato. Se hai qualche suggerimento, puoi aggiungere qualche dettaglio in più!</string>
     <string name="find_device">Trova dispositivo</string>
     <string name="find_device_dspt_provision">Se perdi il tuo dispositivo, puoi andare su &lt;font color=#0097FF>%s&lt;/font> per localizzarlo, bloccarlo o ripristinarlo. Puoi attivare o disattivare questa funzionalità in qualsiasi momento nelle Impostazioni.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">Attivando Trova dispositivo, accetti la nostra <u><a href="app://com.miui.cloudservice.gdpr.license">Informativa sulla privacy</a></u>. Disattiva questa funzionalità se desideri revocare il tuo consenso.</string>
     <string name="find_device_operation_failure_rpc">"Impossibile eseguire l'operazione a causa di un errore RPC."</string>
     <string name="find_device_permissions_footer">Tocca \"Concedi\" per concedere i permessi selezionati.</string>

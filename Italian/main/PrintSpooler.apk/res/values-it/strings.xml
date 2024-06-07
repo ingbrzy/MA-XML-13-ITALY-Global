@@ -66,6 +66,7 @@
     <string name="copies_increase">Aggiungi una copia</string>
     <string name="copy">Copia</string>
     <string name="could_not_create_file">Impossibile creare il file</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -270,6 +271,7 @@
     <string name="printer_busy">Stampante occupata</string>
     <string name="printer_error">Errore stampante</string>
     <string name="printer_error_msg">Errore stampante: %1$s</string>
+    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Ulteriori informazioni su questa stampante</string>
     <string name="printer_notification_error_title">Impossibile stampare%1$s</string>
     <string name="printer_unavailable">Stampante non disponibile</string>

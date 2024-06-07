@@ -88,6 +88,7 @@ Controlla le Impostazioni per i dettagli."</string>
     <string name="fast_connect_device_battery">Batteria</string>
     <string name="fast_connect_device_box">Custodia</string>
     <string name="fast_connect_device_box_name">%1$s Box</string>
+    <string name="fast_connect_device_button_audio_share_fail">Ho capito</string>
     <string name="fast_connect_device_connect_cancel">Annulla</string>
     <string name="fast_connect_device_connect_ok">Connetti</string>
     <string name="fast_connect_device_connect_retry">Riprova</string>
@@ -96,6 +97,12 @@ Controlla le Impostazioni per i dettagli."</string>
     <string name="fast_connect_device_headset_l">Sinistra</string>
     <string name="fast_connect_device_headset_r">Destra</string>
     <string name="fast_connect_device_headset_reset">Tieni premuto il tasto sulla custodia</string>
+    <string name="fast_connect_device_message_audio_share">"Condividi l'audio di questo dispositivo con questo paio di auricolari"</string>
+    <string name="fast_connect_device_replace_current_device">Cambia dispositivo</string>
+    <string name="fast_connect_device_start_audio_share">Condividi</string>
+    <string name="fast_connect_device_title_audio_share">Ascolta insieme a %1$s</string>
+    <string name="fast_connect_device_title_audio_share_fail">Impossibile connettersi a %1$s. Riprova.</string>
+    <string name="fast_connect_device_title_audio_share_success">Ascolto insieme a %1$s</string>
     <string name="fast_connect_device_title_connect_fail">Impossibile connettersi a %1$s</string>
     <string name="fast_connect_device_title_connecting">Connessione…</string>
     <string name="fast_connect_device_title_find_headset">Trova %1$s</string>

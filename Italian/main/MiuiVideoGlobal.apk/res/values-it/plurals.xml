@@ -52,10 +52,6 @@
         <item quantity="other">Indietro di %d secondi</item>
         <item quantity="one">Indietro di %d secondo</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">Ritorno alla pagina home fra %1$d secondi…</item>
-        <item quantity="one">Ritorno alla pagina home fra %1$d secondo…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">"Mezz'ora fa"</item>
         <item quantity="one">"Mezz'ora fa"</item>

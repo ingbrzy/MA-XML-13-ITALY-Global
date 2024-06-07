@@ -122,10 +122,14 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Altro</string>
     <string name="miuix_appcompat_cancel_description">Annulla</string>
+    <string name="miuix_appcompat_cloud_state_disabled">La sincronizzazione con il cloud è disattivata</string>
+    <string name="miuix_appcompat_cloud_state_finished">Sincronizzazione con il cloud completata</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Sincronizzazione con il cloud…</string>
     <string name="miuix_appcompat_confirm_description">Conferma</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
     <string name="miuix_appcompat_deselect_all">Deseleziona tutti</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
+    <string name="miuix_appcompat_edit">Modifica</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
@@ -139,6 +143,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">È tutto per ora</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Solo un secondo…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossibile caricare</string>
+    <string name="miuix_search_action_mode_cancel">Annulla</string>
+    <string name="miuix_search_history_clear">Cancella la cronologia di ricerca</string>
+    <string name="miuix_search_history_default_title">Cronologia di ricerca</string>
+    <string name="miuix_search_recommendation_default_title">Ecco alcune cose che potrebbero interessarti</string>
+    <string name="miuix_search_recommendation_item_del_des">Elimina</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -361,6 +370,7 @@ mm"</string>
     <string name="saturday_shortest">Sab</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send">Invia</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>

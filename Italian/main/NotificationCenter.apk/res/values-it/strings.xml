@@ -235,6 +235,7 @@
     <string name="settings_guide_title">Vuoi visualizzare più impostazioni?</string>
     <string name="show_badge_notifications">Badge di notifica</string>
     <string name="show_badge_notifications_short">Badge</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Barra di stato</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Le notifiche a comparsa non sono consentite</string>

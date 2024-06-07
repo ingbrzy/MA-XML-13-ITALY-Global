@@ -370,12 +370,17 @@ screenshot a scorrimento"</string>
     <string name="screen_editor_btn_save">Salva</string>
     <string name="screen_editor_btn_shell_off">Rimuovi la cornice</string>
     <string name="screen_editor_btn_shell_on">Aggiungi una cornice</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Eliminare questo screenshot?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Eliminare questa immagine?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Fatto</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Impossibile aggiungere la cornice agli screenshot ritagliati</string>
     <string name="screen_editor_shell_net_error">Connettiti alla rete per scaricare la cornice</string>
     <string name="screen_editor_shell_res_downloading">Download cornice in corso…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Annulla</string>
     <string name="screen_save_dialog_btn_delete">Elimina lo screenshot</string>
     <string name="screen_save_dialog_btn_save">Salva nella Galleria</string>

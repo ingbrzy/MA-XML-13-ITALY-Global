@@ -75,6 +75,7 @@
     <string name="ad_bar_notification_setting_title">Eventi</string>
     <string name="ad_click_to_play">Tocca per giocare</string>
     <string name="ad_flag_text">Annuncio</string>
+    <string name="ad_topview_repeat_play">Tocca per riprodurre nuovamente</string>
     <string name="add_local_shortcut_add">Aggiungi</string>
     <string name="add_local_shortcut_des">Aggiungi \"I miei video\" alla schermata Home per accedere ai file video locali con un solo tocco.</string>
     <string name="add_search_channel_link">URL</string>
@@ -134,6 +135,7 @@
     <string name="cast_forward">Avanti</string>
     <string name="cast_forward_10">Avanti di dieci secondi</string>
     <string name="cast_forward_30">Avanti di trenta secondi</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">IN DIRETTA</string>
     <string name="cast_mute">Disattiva audio</string>
     <string name="cast_notification_connected_message">Connesso a %1$s</string>
@@ -261,7 +263,7 @@ Invia questo codice al supervisore."</string>
     <string name="dialog_cancel">Annulla</string>
     <string name="dialog_clearn_content">Cancellare la cronologia di navigazione?</string>
     <string name="dialog_clearn_title">Cancella la cronologia</string>
-    <string name="dialog_confirm">OK</string>
+    <string name="dialog_confirm">Aggiungi</string>
     <string name="dialog_delete_bookmarks_content">Eliminare dai preferiti?</string>
     <string name="dialog_disagree_continue">Continua</string>
     <string name="dialog_disagree_info">"Se non accetti l'Informativa sulla privacy di Mi Video, non sarai in grado di utilizzare i nostri servizi online e potrai guardare solo i video memorizzati sul tuo dispositivo. Continuare comunque?"</string>
@@ -317,7 +319,7 @@ Mi Video deve raccogliere le informazioni personali necessarie per fornirti i se
     <string name="do_not_show_again">Non mostrare più</string>
     <string name="download">Download</string>
     <string name="download_checking_tip">Preparazione al download…</string>
-    <string name="download_complete">Scaricato</string>
+    <string name="download_complete">Scaricati</string>
     <string name="download_completed_push_title">Download completato</string>
     <string name="download_delete_tip">Eliminare gli elementi selezionati?</string>
     <string name="download_delete_title">Elimina</string>
@@ -330,6 +332,8 @@ Mi Video deve raccogliere le informazioni personali necessarie per fornirti i se
     <string name="download_unable_tip">Impossibile scaricare questo elemento</string>
     <string name="download_video">Download del video</string>
     <string name="downloading">In download…</string>
+    <string name="draw_ad_button_click_text">Scuoti o tocca per aprire</string>
+    <string name="draw_ad_button_slide_text">Scorri per i dettagli</string>
     <string name="early_morning">Mattino</string>
     <string name="empty" />
     <string name="empty_channels">Gestisci i canali</string>
@@ -414,14 +418,10 @@ Mi Video deve raccogliere le informazioni personali necessarie per fornirti i se
     <string name="feedback_activity_title">Feedback</string>
     <string name="feedback_contact_empty">Inserisci le informazioni di contatto</string>
     <string name="feedback_contact_title">Informazioni contatto</string>
-    <string name="feedback_detail_input_hint">Inserisci il tuo messaggio</string>
-    <string name="feedback_hint">Descrivi il problema che hai incontrato.</string>
     <string name="feedback_hint_contact">Telefono/QQ/E-mail</string>
     <string name="feedback_hint_text">Descrivi il problema che hai incontrato.</string>
-    <string name="feedback_input_tip">Puoi descrivere i problemi o fornire suggerimenti qui.</string>
     <string name="feedback_net_error">Impossibile inviare. Verifica le impostazioni di rete e riprova.</string>
     <string name="feedback_sent">Invia</string>
-    <string name="feedback_success">Invio completato</string>
     <string name="feedback_success_toast">Invio riuscito. Grazie per il tuo feedback!</string>
     <string name="feedback_tag_title">Categoria</string>
     <string name="feedback_text_empty_toast">Scrivi qui il tuo feedback.</string>
@@ -642,6 +642,7 @@ Questa operazione non influirà sulle immagini della galleria."</string>
     <string name="hidden_channels">I seguenti canali non verranno visualizzati nella pagina principale.</string>
     <string name="hide">Nascondi</string>
     <string name="hide_video_toast">Questo elemento è stato nascosto. Puoi trovare e gestire gli elementi nascosti in Locale > Cartelle > Oggetti nascosti.</string>
+    <string name="hiding_dialog_ok">Imposta</string>
     <string name="hint_icon_ad_title">Consigliati</string>
     <string name="hint_in_mivideo">Ora puoi trovare funzionalità aggiuntive nel pannello laterale</string>
     <string name="history">Cronologia</string>
@@ -695,7 +696,6 @@ Questa operazione non influirà sulle immagini della galleria."</string>
     <string name="inline_mute_click_tip">"Tocca per riattivare l'audio."</string>
     <string name="input_email_address_notice">Useremo questo indirizzo e-mail per verificare il tuo account</string>
     <string name="input_new_pwd">Inserisci la nuova password</string>
-    <string name="input_size_tips_new">Puoi inserire fino a %d caratteri</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="item_card_all_replies">Tutte le risposte</string>
     <string name="item_card_continue_play">Riproduzione automatica</string>
@@ -799,7 +799,6 @@ per i video"</string>
     <string name="local_zoom_adjust_button">Cambia la modalità di visualizzazione</string>
     <string name="lock_screen">Schermata di blocco</string>
     <string name="login">Accedi</string>
-    <string name="login_tip">Accedi per ricevere le nostre risposte al tuo feedback.</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">Esci</string>
     <string name="logout_account">Esci</string>
@@ -887,6 +886,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="manager_request_continue">Consenti</string>
     <string name="manager_request_tip">Non mostrare più</string>
     <string name="manager_request_title">Impossibile accedere a questo file</string>
+    <string name="mangotv_episode">Episodio %d</string>
     <string name="mangotv_feature_list_title3">Aggiunto episodio %s</string>
     <string name="mangotv_feature_more">Altro</string>
     <string name="mangotv_feature_title1">Episodi</string>
@@ -916,11 +916,13 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="miuix_appcompat_delete_description">Elimina</string>
     <string name="miuix_appcompat_deselect_all">Deseleziona tutti</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
+    <string name="miuix_appcompat_edit">Modifica</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_appcompat_select_item">Seleziona elementi</string>
+    <string name="miuix_dialog_ok">OK</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Trascina in basso per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornamento completato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -1016,6 +1018,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Seleziona data</string>
     <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
@@ -1045,7 +1048,6 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="music_new_user_dialog_got_it">Ho capito</string>
     <string name="music_new_user_dialog_tip">Ti diamo il benvenuto in Mi Video! Questa app fornisce un lettore video locale e servizi di streaming di musica e video online.</string>
     <string name="my_favorite_channels">I miei canali preferiti</string>
-    <string name="my_feedback_title">Il mio feedback</string>
     <string name="native_body">Corpo</string>
     <string name="native_headline">Titolo</string>
     <string name="native_media_view">Pannello multimediale</string>
@@ -1056,6 +1058,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="network_failed">Impossibile connettersi alla rete</string>
     <string name="newyearfestival_go_to_draw_prizes">"Vai all'estrazione"</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">"Guarda i video per partecipare all'estrazione"</string>
+    <string name="next_button">Successivo</string>
     <string name="nick_name">Nickname</string>
     <string name="night">Sera</string>
     <string name="no_account">Accesso non effettuato</string>
@@ -1105,6 +1108,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="online_play_start_ready_loading_tip_kb">Caricamento %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">Caricamento %.2f MB/s</string>
     <string name="online_play_title">"Inserisci l'URL"</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
     <string name="order_recently_updated">Aggiornati di recente</string>
     <string name="out_of_memory_background_playback_is_suspended">Riproduzione in background interrotta, memoria insufficiente</string>
@@ -1241,6 +1245,8 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Per poter usare picture-in-picture, aggiorna il sistema alla versione più recente.</string>
+    <string name="play_at_normal_speed">Riproduzione a velocità 1X</string>
+    <string name="play_at_speed">Riproduzione a velocità %.1fX</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Crea playlist</string>
     <string name="play_list_save_dialog_title">Aggiungi alla playlist</string>
@@ -1412,6 +1418,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="remaining_space_not_enough">Impossibile scaricare, spazio di archiviazione insufficiente</string>
     <string name="reminder">Attenzione</string>
     <string name="rename">Rinomina</string>
+    <string name="rename_dialog_ok">OK</string>
     <string name="rename_word_out">Il nome del file è troppo lungo</string>
     <string name="report">Segnala</string>
     <string name="report_content_dislike">Violenza o comportamenti inappropriati</string>
@@ -1465,7 +1472,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="sending">Invio in corso…</string>
     <string name="service_error">Errore del server</string>
     <string name="set_success">Modificato correttamente</string>
-    <string name="setting_privacy_title">Terms and conditions</string>
+    <string name="setting_privacy_title">Termini e condizioni</string>
     <string name="settings_inline_auto_play">Sempre</string>
     <string name="settings_inline_auto_play_close">Disattivata</string>
     <string name="settings_inline_auto_play_tip_close_forever">Sempre disattivata</string>
@@ -1480,6 +1487,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="shake_to_open_ad">Scuoti per maggiori informazioni</string>
     <string name="share">Condividi</string>
     <string name="share_text_before_link">Guarda e scarica fantastici video gratis su Mi Video</string>
+    <string name="share_title">Condividi</string>
     <string name="share_ugc_waitting">Generazione link…</string>
     <string name="shorts_assemble_ad_recommend">Consigliati</string>
     <string name="show_the_location">Tipo di notifica</string>
@@ -1494,6 +1502,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="slide_or_click_to_open_ad">Scorri o tocca per maggiori informazioni</string>
     <string name="slide_save_message">Generazione video…</string>
     <string name="slide_to_open_ad">Scorri per maggiori informazioni</string>
+    <string name="small_mango_play_next_episode">Prossimo episodio</string>
     <string name="small_video_load_more_hint">"Scorri verso l'alto per riprodurre altri video"</string>
     <string name="small_video_report">Segnala</string>
     <string name="small_video_report_dialog_title">Seleziona un motivo</string>
@@ -1506,9 +1515,9 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="sns_sign_in">Altri modi per accedere</string>
     <string name="source">"Fonte: "</string>
     <string name="start_download_tip">"Aggiunto alla coda. Controlla l'avanzamento in Profilo > Scaricati."</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Scheda SD</string>
     <string name="storage_internal_sdcard">Memoria interna</string>
-    <string name="submit">Invia</string>
     <string name="subscribe">ISCRIVITI</string>
     <string name="subscribe_author_recommend_btn">Iscriviti</string>
     <string name="subscribe_author_recommend_title">Iscriviti per vedere i video più recenti di questi creator</string>
@@ -1528,6 +1537,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sure_to_logout">Uscire ora?</string>
+    <string name="swipe_to_exit">Scorri nuovamente per uscire</string>
     <string name="switch_ratio_pause">La velocità di riproduzione è instabile. Torna alla velocità predefinita.</string>
     <string name="sync_favorites_limit_new">Ci sono più di %d video nei tuoi preferiti. Dovremo eliminare alcuni dei video precedenti per continuare la sincronizzazione.</string>
     <string name="sync_favorites_message">Sincronizzare i preferiti su questo dispositivo con il tuo account? Gli elementi non più disponibili verranno rimossi.</string>
@@ -1654,7 +1664,6 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Questa ricompensa non è attualmente disponibile. Riprovare più tardi.</string>
     <string name="toast_m3u8_download_path_tip">Impossibile modificare il percorso di download per i contenuti in formato m3u8</string>
     <string name="toast_play_error_tip">Impossibile riprodurre questo file</string>
-    <string name="toast_request_too_frequently">Troppo veloce!</string>
     <string name="toast_share_failed">Impossibile condividere. Aspetta un minuto o due e riprova.</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">Domani</string>
@@ -1688,6 +1697,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="tt_count_down_view">Ignora</string>
     <string name="tt_dislike_header_tv_back">Indietro</string>
     <string name="tt_dislike_header_tv_title">Seleziona</string>
+    <string name="tt_display_error">Errore di visualizzazione</string>
     <string name="tt_error_access_method_pass">Illegal access method</string>
     <string name="tt_error_ad_type">Illegal ad type</string>
     <string name="tt_error_adtype_differ">Ad type error</string>
@@ -1757,6 +1767,8 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="tt_splash_cache_parse_error">Cache parsing failed</string>
     <string name="tt_splash_not_have_cache_error">No splash cache</string>
     <string name="tt_splash_skip_tv">3s | Ignora</string>
+    <string name="tt_suggestion_commit">Invia</string>
+    <string name="tt_suggestion_description">Inserisci una descrizione dell’errore di visualizzazione e fai clic sul pulsante Invia. La creatività dell’annuncio verrà inoltre rispedita a Pangle per risolvere il problema.</string>
     <string name="tt_sys_error">System error</string>
     <string name="tt_tip">Richiedi</string>
     <string name="tt_toast_ad_on_rewarded">Ad on rewarded</string>
@@ -1784,9 +1796,6 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
-    <string name="type_content">Contenuto</string>
-    <string name="type_issue">Problema</string>
-    <string name="type_suggestion">Suggerimento</string>
     <string name="ugc_no_net">Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova.</string>
     <string name="ui_common_title_back">Indietro</string>
     <string name="unknow">Sconosciuta</string>
@@ -1811,7 +1820,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="v_menu_hide">Nascondi</string>
     <string name="v_more">Altro</string>
     <string name="v_next">Avanti</string>
-    <string name="v_ok">OK</string>
+    <string name="v_ok">Avanti</string>
     <string name="v_online_play">Riproduci online</string>
     <string name="v_pw_need_update_app">Aggiorna Mi Video per usare tutte le sue funzionalità</string>
     <string name="v_save">Salva</string>
@@ -1822,6 +1831,7 @@ Useremo questo permesso solo per trovare i video che cerchi e non per accedere a
     <string name="video_download_fail">Impossibile scaricare il video</string>
     <string name="video_download_fail_hint">Impossibile scaricare</string>
     <string name="video_download_floating_guide">Scarica video gratis</string>
+    <string name="video_download_folder">Video scaricati</string>
     <string name="video_download_folder_title">Download Mi Video</string>
     <string name="video_download_forbidden">Impossibile scaricare da questo sito web</string>
     <string name="video_download_login_guide">Accedi a %s per poter scaricare i video</string>

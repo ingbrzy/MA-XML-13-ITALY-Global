@@ -574,6 +574,7 @@ Gli LPR di un anno e di cinque anni saranno quotati il 20 di ogni mese (potrebbe
     <string name="unit_data_display_currency_btn">Ngultrum del Bhutan</string>
     <string name="unit_data_display_currency_bwp">Pula del Botswana</string>
     <string name="unit_data_display_currency_byn">Rublo bielorusso</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Dollaro canadese</string>
     <string name="unit_data_display_currency_cdf">Franco congolese</string>
     <string name="unit_data_display_currency_chf">Franco svizzero</string>

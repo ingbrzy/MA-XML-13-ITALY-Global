@@ -396,6 +396,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
     <string name="miuix_appcompat_deselect_all">Deseleziona tutti</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
+    <string name="miuix_appcompat_edit">Modifica</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleziona tutto</string>
@@ -553,6 +554,7 @@ stia per accadere"</string>
     <string name="somatosensory_temperature_format">Percepita %s°</string>
     <string name="standard_clock_panel">Standard</string>
     <string name="standard_style">Standard</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Il conteggio dei passi è fornito da Xiaomi Salute. Accetta i termini e le condizioni di Xiaomi Salute per continuare.</string>
     <string name="step_component_info_desc">Il conteggio dei passi si trasformerà in un trofeo una volta raggiunto il tuo obiettivo. Il conteggio dei passi è fornito da Xiaomi Salute.</string>
     <string name="step_component_info_tip">Il conteggio dei passi è fornito da Xiaomi Salute. Installa o aggiorna Xiaomi Salute e accetta i termini e le condizioni per continuare.</string>

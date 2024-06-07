@@ -206,6 +206,7 @@ https://appleid.apple.com/#!&amp;page=signin per concludere"</string>
     <string name="dialog_backup_password_change_machine_tips">Non sarà possibile trasferire backup protetti da password. Disattiva la password di backup prima di utilizzare Mi Mover.</string>
     <string name="dialog_backup_password_restore_tips">Impossibile ripristinare gli elementi quando la password di backup è attiva. Disattiva prima la password di backup.</string>
     <string name="dialog_backup_password_to_settings">Impostazioni</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Non crittografare</string>
     <string name="disable_encrypt_title">Disattiva la crittografia</string>
@@ -368,6 +369,7 @@ devi prima creare un backup iCloud."</string>
     <string name="import_data_from_icloud">Importa dati da iCloud</string>
     <string name="import_from_xiaomi_account_hint2">Se hai già eseguito un backup, tocca Avanti.</string>
     <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per eseguire il backup contatti dei tuoi dispositivi.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">A causa di problemi di compatibilità, puoi trasferire dati solo da dispositivi iOS. Assicurati di creare un backup iCloud prima di avviare il trasferimento.</string>
     <string name="item_view_role_description">Scheda</string>
     <string name="lack_perm_msg">Mi Mover necessita dei seguenti permessi: &lt;b>%s&lt;/b>.</string>
@@ -504,6 +506,7 @@ devi prima creare un backup iCloud."</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Seleziona data</string>
     <string name="mtrl_picker_date_header_unselected">Data selezionata</string>

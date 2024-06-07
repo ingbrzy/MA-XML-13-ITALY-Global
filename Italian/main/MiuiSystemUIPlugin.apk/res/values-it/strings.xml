@@ -188,7 +188,7 @@
     <string name="kddi_miui_toast_zen_standard_to_off">La modalità silenziosa è disattivata. Le chiamate e le notifiche non verranno silenziate.</string>
     <string name="kddi_miui_toast_zen_to_standard">Passato alla modalità silenziosa. Le chiamate e le notifiche verranno silenziate.</string>
     <string name="loading">Stato sconosciuto</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">Notte</string>
     <string name="miplay_accessibility_cast">Seleziona il dispositivo</string>
     <string name="miplay_accessibility_cover">Copertina</string>
@@ -201,6 +201,8 @@
     <string name="miplay_bluetooth_share_des_text">"Per chi usa gli auricolari Xiaomi: apri la custodia di ricarica o tieni premuto il pulsante della custodia per %ds
 Non per chi usa gli auricolari Xiaomi: resetta gli auricolari nelle impostazioni Bluetooth, quindi connettili"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">"Aggiungi gli auricolari per condividere l'audio"</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">"Condivisione dell'audio terminata"</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">"Aggiungi gli auricolari per condividere l'audio"</string>
     <string name="miplay_bluetooth_share_subTitle_text">"Condividi l'audio del dispositivo con un'altra persona"</string>
     <string name="miplay_bluetooth_share_title_text">"Condividi l'audio"</string>
     <string name="miplay_detail_divider_title">Altoparlanti</string>

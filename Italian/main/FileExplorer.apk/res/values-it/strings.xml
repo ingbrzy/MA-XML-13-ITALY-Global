@@ -238,7 +238,7 @@ Prova a spostare i file dal tuo dispositivo a Mi Drive."</string>
     <string name="encrypt_prefix">PRIVATI</string>
     <string name="encrypt_setting">Crittografia</string>
     <string name="encrypt_success">Gli elementi selezionati sono ora privati</string>
-    <string name="encrypt_success_first_five">Questo elemento è ora privato. Puoi visualizzare i file privati tirando verso il basso la pagina iniziale di Gestore File.</string>
+    <string name="encrypt_success_first_five">Questo elemento è ora privato. Per visualizzarlo, fai clic sulla pagina iniziale del Gestore File.</string>
     <string name="encrypting">Crittografia in corso…</string>
     <string name="enter">Apri Gestore File</string>
     <string name="entry_phone_storage_internal">Memoria interna</string>
@@ -275,6 +275,7 @@ Prova a spostare i file dal tuo dispositivo a Mi Drive."</string>
     <string name="favorite_photo">Foto</string>
     <string name="favorite_ringtone">Suonerie</string>
     <string name="favorite_screen_cap">Screenshot</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Leggibile: </string>
     <string name="file_info_canwrite">Scrivibile: </string>
     <string name="file_info_ishidden">Nascosto: </string>
@@ -669,6 +670,14 @@ Prova a spostare i file dal tuo dispositivo a Mi Drive."</string>
     <string name="partial_delete_failure">Impossibile eliminare alcuni file. Riprova.</string>
     <string name="partial_encrypt_success">Impossibile rendere privati alcuni dei file. Riprova.</string>
     <string name="path_name_email">E-mail</string>
+    <string name="pattern_hour_minute_12">hh:mm a</string>
+    <string name="pattern_hour_minute_24">HH:mm</string>
+    <string name="pattern_month_day">dd/MM</string>
+    <string name="pattern_month_day_hh_mm_12">dd/MM hh:mm a</string>
+    <string name="pattern_month_day_hh_mm_24">dd/MM HH:mm</string>
+    <string name="pattern_year_month_day">dd/MM/yyyy</string>
+    <string name="pattern_year_month_day_hh_mm_12">dd/MM/yyyy hh:mm a</string>
+    <string name="pattern_year_month_day_hh_mm_24">dd/MM/yyyy HH:mm</string>
     <string name="perm_manage_external_storage">Accedere a tutti i file</string>
     <string name="permission_account_desc">"Per accedere alle informazioni sull'account memorizzate sul dispositivo"</string>
     <string name="permission_account_desc_pad">"Per accedere alle informazioni sull'account memorizzate sul dispositivo"</string>
@@ -802,6 +811,7 @@ Prova a spostare i file dal tuo dispositivo a Mi Drive."</string>
     <string name="set_pattern">Aggiorna la tua password</string>
     <string name="set_pattern_btn">Imposta</string>
     <string name="set_pattern_msg">Imposta di nuovo la password. La password di protezione della privacy funziona anche per foto, messaggi e note.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">Più piccolo di %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>

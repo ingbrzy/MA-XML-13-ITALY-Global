@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Maschio</item>
-        <item>Femmina</item>
-    </string-array>
     <string-array name="activities_title">
         <item>Giorno speciale</item>
         <item>Giorno da ricordare</item>
@@ -65,6 +61,14 @@
         <item>Into the wild</item>
         <item>Wild and free</item>
     </string-array>
+    <string-array name="global_backup_display_title">
+        <item>@string/backup_google_name</item>
+        <item>@string/backup_onedrive_single_name</item>
+    </string-array>
+    <string-array name="global_backup_display_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="group_people_title">
         <item>Quando siamo insieme</item>
         <item>Con gli amici</item>
@@ -119,6 +123,11 @@
         <item>New friends and old pals</item>
         <item>"Last year's get-togethers"</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Sposta</item>
+        <item>Copia</item>
+        <item>@string/cancel</item>
+    </string-array>
     <string-array name="month">
         <item>Gennaio</item>
         <item>Febbraio</item>
@@ -158,6 +167,10 @@
         <item>Insieme</item>
         <item>Momenti divertenti</item>
         <item>"All'unisono"</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Maschio</item>
+        <item>Femmina</item>
     </string-array>
     <string-array name="people_travel_title">
         <item>Where the road takes us</item>

@@ -1223,6 +1223,7 @@ Per ulteriori informazioni, contatta il tuo amministratore IT."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Le tue app personali si connettono a Internet tramite %1$s. La tua attività di rete, inclusi email e dati di navigazione, è visibile al provider VPN.</string>
     <string name="monitoring_description_two_named_vpns">"Questo dispositivo si connette a Internet tramite %1$s e %2$s. La tua attività di rete, inclusi email e dati di navigazione, è visibile all'amministratore IT."</string>
     <string name="monitoring_description_vpn_settings">Apri impostazioni VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s è in grado di accedere ai dati associati a questo dispositivo, di gestire le app e di modificare le impostazioni del dispositivo.
 
 Per eventuali domande, contatta %2$s."</string>
@@ -1422,6 +1423,8 @@ Per eventuali domande, contatta %2$s."</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Seleziona &lt;font color=#a5220e>\"Elimina e ripristina\"&lt;/font> e aspetta fino al riavvio del dispositivo.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Come eliminare i dati?</string>
     <string name="phone_locked_string">Questo dispositivo è bloccato</string>
+    <string name="pin_toast">"Scorri verso l'alto partendo dal fondo della schermata e metti in pausa per rimuovere quest'app da quelle fissate in alto"</string>
+    <string name="pin_toast_nav">"Tieni premuti i pulsanti \"Indietro\" e \"Anteprima\" per rimuovere quest'app da quelle fissate in alto"</string>
     <string name="pip_close">Chiudi</string>
     <string name="pip_collapse">Comprimi</string>
     <string name="pip_edu_text">Premi due volte <annotation icon="home_icon">HOME</annotation> per accedere ai controlli</string>
@@ -1823,6 +1826,8 @@ Per eventuali domande, contatta %2$s."</string>
     <string name="status_bar_clock_date_format_12">E d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E d MMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Rotazione automatica schermo</string>
     <string name="status_bar_work">Profilo di lavoro</string>

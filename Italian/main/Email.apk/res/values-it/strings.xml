@@ -33,7 +33,6 @@
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
     <string name="copy">Copia</string>
-    <string name="copy_toast_msg">Link copiato negli appunti</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -45,9 +44,6 @@
     <string name="eras_bc">a.C.</string>
     <string name="evening">Pomeriggio</string>
     <string name="expand_button_title">Avanzate</string>
-    <string name="fallback_menu_item_copy_link">Copia link</string>
-    <string name="fallback_menu_item_open_in_browser">Apri nel browser</string>
-    <string name="fallback_menu_item_share_link">Condividi link</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -193,6 +189,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>

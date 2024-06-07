@@ -157,6 +157,7 @@
     <string name="dynamic_weather">Meteo</string>
     <string name="early_morning">Mattino</string>
     <string name="edit_city">Gestisci le città</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Aggiornamento…</string>
     <string name="empty_view_net_unavailable">Impossibile connettersi alla rete</string>
     <string name="empty_view_refresh">Riprova</string>
@@ -266,6 +267,7 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="hourly_forcast_now">Ora</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">dd/MM</string>
     <string name="index_item_experience_now">Installa ora</string>
     <string name="indices_title_chance_of_rain">Probabilità di pioggia</string>
@@ -276,7 +278,10 @@
     <string name="indices_wind_direction_north">N</string>
     <string name="indices_wind_direction_south">S</string>
     <string name="indices_wind_direction_west">O</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">Indice UV</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Attiva i servizi di localizzazione</string>
     <string name="location_tag">Localizza</string>
     <string name="manager_city_option_add_home">Aggiungi alla pagina iniziale</string>
@@ -429,6 +434,7 @@
     <string name="share_button">Condividi</string>
     <string name="share_menu_title">Condividi</string>
     <string name="share_subject">Condividi</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Impossibile catturare uno screenshot</string>
     <string name="shortcut_short_label_24_hour_forecast">Previsioni a %d ore</string>

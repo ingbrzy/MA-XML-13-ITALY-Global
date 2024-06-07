@@ -396,6 +396,7 @@ Invia questo codice al supervisore."</string>
     <string name="sns_access_token_expired_warning">Sessione scaduta. Accedi di nuovo per riconnettere questo account.</string>
     <string name="sns_bind_limit">Troppi tentativi. Prova altri modi per accedere.</string>
     <string name="sns_sign_in">Altri modi per accedere</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

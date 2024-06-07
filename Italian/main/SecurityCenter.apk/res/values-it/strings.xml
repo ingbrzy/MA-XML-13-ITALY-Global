@@ -343,6 +343,9 @@
     <string name="app_manager_copy_pkg_to_clip">Copiato negli appunti</string>
     <string name="app_manager_data_size">Dati utente</string>
     <string name="app_manager_default_cleared">Cancellato</string>
+    <string name="app_manager_default_close_summary">Nessuna impostazione predefinita.</string>
+    <string name="app_manager_default_open_summary">"Hai scelto di avviare quest'app per impostazione predefinita per alcune azioni."</string>
+    <string name="app_manager_default_open_title">Elimina i predefiniti</string>
     <string name="app_manager_defaults_setting">Applicazioni predefinite</string>
     <string name="app_manager_details_electric_title">Batteria</string>
     <string name="app_manager_details_storage_title">"Spazio d'archiviazione"</string>
@@ -968,6 +971,7 @@ Tuttavia, alcune delle tue transazioni non sono ancora state completate. Per rev
     <string name="card_main_private_space_summary">Con Secondo spazio è come avere due dispositivi in uno</string>
     <string name="card_main_private_space_title">Secondo spazio</string>
     <string name="card_main_sectool_title">Strumenti</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">Gestisci i video</string>
     <string name="card_main_whatsappclean_title">Pulitore WhatsApp</string>
     <string name="card_main_xspace_action">Crea</string>
@@ -1337,6 +1341,7 @@ Verrà aggiunto alle eccezioni, ma gli elementi bloccati in precedenza non appar
     <string name="dynamic_performance_optimization_title">Prestazioni dinamiche</string>
     <string name="early_morning">Mattino</string>
     <string name="edit_phone_num">Modifica il numero della SIM</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty" />
     <string name="empty_app">Nessuna app</string>
@@ -1414,7 +1419,9 @@ Verrà aggiunto alle eccezioni, ma gli elementi bloccati in precedenza non appar
     <string name="exo_download_paused_for_wifi">Download in attesa di Wi-Fi</string>
     <string name="exo_download_removing">Rimozione dei download…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Versione alternativa</string>
     <string name="exo_track_role_closed_captions">Sottotitoli</string>
     <string name="exo_track_role_commentary">Commenti</string>
@@ -1601,6 +1608,7 @@ Verrà aggiunto alle eccezioni, ma gli elementi bloccati in precedenza non appar
     <string name="fod_finger_notice_title">Posiziona il dito sullo schermo</string>
     <string name="fod_finger_windows_tips">Verifica la tua impronta</string>
     <string name="fod_tips_split_screen_more_than_half">Inserisci la password</string>
+    <string name="fold_application_mode_name">Layout app</string>
     <string name="forbid_autobright_summary">La luminosità automatica verrà disattivata durante la riproduzione e ripristinata al termine</string>
     <string name="forbid_autobright_title">Imposta la luminosità dello schermo</string>
     <string name="foreground_traffic">In primo piano %s</string>
@@ -2122,7 +2130,7 @@ delle tue sessioni di gioco"</string>
     <string name="group_clipboard">Appunti</string>
     <string name="group_connect_device">Interconnettività</string>
     <string name="group_file">File e documenti</string>
-    <string name="group_file_less_t">Access files and media</string>
+    <string name="group_file_less_t">Accedi a file e media</string>
     <string name="group_head_data_ai_clipboard">Protezione appunti</string>
     <string name="group_head_data_camera_desc">"Disattiva per limitare l'accesso alla fotocamera a tutte le app"</string>
     <string name="group_head_data_clipboard_desc">"Disattiva per limitare l'accesso agli appunti a tutte le app."</string>
@@ -2599,6 +2607,7 @@ Velocità dispositivo incrementata del %s."</string>
     <string name="menu_text_license_manager">Permessi</string>
     <string name="menu_text_networkassistants">Utilizzo dei dati</string>
     <string name="menu_text_networkassistants_danger">%s sopra al limite</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s residui</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2607,6 +2616,7 @@ Velocità dispositivo incrementata del %s."</string>
     <string name="menu_text_optimize_manage">Incremento velocità</string>
     <string name="menu_text_optimize_manage_1">Incremento velocità</string>
     <string name="menu_text_power_manager">Batteria</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
     <string name="menu_white">Aggiungi alle eccezioni</string>
     <string name="mi_ime_not_used">Usa una tastiera autorizzata da Xiaomi</string>
@@ -2715,6 +2725,7 @@ Velocità dispositivo incrementata del %s."</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Seleziona data</string>
     <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
@@ -3246,7 +3257,7 @@ Prova ad utilizzare un altro cavo Ethernet per collegare il router. Se sospetti 
     <string name="pc_wireless_charging_special_stand_summary2">Installa il tuo dispositivo sul supporto incluso con il tuo caricabatterie wireless per migliori prestazioni di ricarica</string>
     <string name="pc_wireless_charging_special_stand_title">Utilizza il supporto di ricarica fornito</string>
     <string name="pc_wireless_handle_connected">Dispositivo connesso</string>
-    <string name="pc_wireless_handle_title">Impugnatura wireless per fotocamera</string>
+    <string name="pc_wireless_handle_title">Impugnatura per la fotocamera</string>
     <string name="pc_work_in_save_mode">Risparmio energetico</string>
     <string name="pc_work_in_super_save_mode">Super risparmio energetico</string>
     <string name="pc_xiaoai_create_auto_task">Nuova attività da Mi AI</string>
@@ -3307,7 +3318,7 @@ Prova ad utilizzare un altro cavo Ethernet per collegare il router. Se sospetti 
     <string name="permission_group_camera">Questo permesso consente alle app di utilizzare la fotocamera per scattare foto o registrare video.</string>
     <string name="permission_group_contact">Questo permesso consente alle app di accedere o modificare i contatti, nonché di visualizzare i contatti delle app creati su questo dispositivo.</string>
     <string name="permission_group_file">Questo permesso consente alle app di accedere a tutti i file memorizzati sul dispositivo.</string>
-    <string name="permission_group_file_less_t">This permission allows apps to access photos, videos, audio, and other files stored on this device.</string>
+    <string name="permission_group_file_less_t">Questo permesso consente alle app di accedere a foto, video, audio e altri file memorizzati sul dispositivo.</string>
     <string name="permission_group_image_video">Questo permesso consente alle app di accedere alle foto e ai video memorizzati sul dispositivo.</string>
     <string name="permission_group_location">Questo permesso consente alle app di accedere alle informazioni sulla posizione tramite rete o satellite.</string>
     <string name="permission_group_microphone">"Questo permesso consente alle app di utilizzare il microfono per registrare l'audio."</string>
@@ -3426,7 +3437,7 @@ Prova ad utilizzare un altro cavo Ethernet per collegare il router. Se sospetti 
     <string name="pm_remember_choice">Non chiedere più</string>
     <string name="pm_root_success_notification_infomation">"Assicurati di capire i rischi relativi all'accesso root"</string>
     <string name="pm_root_success_notification_title">Accesso root consentito</string>
-    <string name="popular_action_anti_spam_title_global">Blocca chiamate e messaggi</string>
+    <string name="popular_action_anti_spam_title_global">Blocca le chiamate di spam</string>
     <string name="popular_action_app_lock_title_global">Proteggi le applicazioni con Blocco app</string>
     <string name="popular_action_card_title">Funzionalità popolari</string>
     <string name="popular_action_first_aid_title_global">Per i nuovi utenti</string>
@@ -3482,6 +3493,11 @@ Prova ad utilizzare un altro cavo Ethernet per collegare il router. Se sospetti 
     <string name="power_center_dialog_msg_top">Quando il Risparmio energetico è attivo, verranno effettuate le seguenti ottimizzazioni:</string>
     <string name="power_center_hints_scan_danger_result">Puoi risolvere i problemi della batteria ora</string>
     <string name="power_center_list_item_auto_brightness">Regola automaticamente la luminosità dello schermo</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">o</string>
     <string name="power_center_list_item_close_bluetooth">Disattiva il Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Impostazioni avanzate</string>
@@ -3794,6 +3810,7 @@ Prova ad utilizzare un altro cavo Ethernet per collegare il router. Se sospetti 
     <string name="pref_normal_traffic_limit">Quando il piano dati finisce</string>
     <string name="pref_open_adjust_traffic">"Aggiorna giornalmente l'utilizzo dei dati usando le statistiche del tuo operatore"</string>
     <string name="pref_operator_not_set">Operatore non impostato</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Quando vai oltre il tuo piano dati</string>
     <string name="pref_package_traffic_settings">Piano dati</string>
     <string name="pref_pkg_begin_date">Data ripristino contatore dati</string>
@@ -4094,6 +4111,7 @@ Revocare il consenso?"</string>
     <string name="privacy_using_record">Registrazione audio</string>
     <string name="privacyapp_number_masked_text">App con contenuti nascosti</string>
     <string name="privacyapp_number_unmasked_text">App con contenuti da nascondere</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Pubblicità</string>
@@ -5329,7 +5347,7 @@ Attivarla li disattiverà e viceversa."</string>
     <string name="vb_video_effects_spatial_summary_new">"Sperimenta un maggiore senso dello spazio e della direzione l'audio supportato quando usi le cuffie"</string>
     <string name="vb_video_effects_srs_premium_sound">Audio</string>
     <string name="vb_video_super_division">Aumenta la risoluzione</string>
-    <string name="vb_video_super_division_desc">"Aumenta automaticamente la risoluzione quando è ≤720p.
+    <string name="vb_video_super_division_desc">"Aumenta automaticamente la risoluzione quando è ≤720P.
 
 L'utilizzo di questa funzionalità aumenta il consumo energetico.
 
@@ -5379,6 +5397,7 @@ Prova ad aumentare la risoluzione!"</string>
     <string name="virus_update_tips_title">Attenzione</string>
     <string name="virus_wait_network_dialog_message">Il telefono non è connesso a una rete Wi-Fi. Usare la connessione dati?</string>
     <string name="vtb_ai_subtitle">Sottotitoli</string>
+    <string name="vtb_ai_subtitle_intl">Sottotitoli AI</string>
     <string name="vtb_func_desc">Informazioni su questa funzionalità</string>
     <string name="vtb_func_display_style_desc0">"L'AI può riconoscere persone, animali, piante, cieli, edifici e altri oggetti presenti nei video e migliorarli dinamicamente."</string>
     <string name="vtb_func_display_style_desc1">Gli effetti selezionati non verranno applicati ai video HDR sui dispositivi selezionati.</string>

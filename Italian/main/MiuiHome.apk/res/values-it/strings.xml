@@ -64,7 +64,7 @@
     <string name="all_app_category_finance_business">Finanza e Affari</string>
     <string name="all_app_category_games">Giochi</string>
     <string name="all_app_category_knowledge_education">Conoscenza e Istruzione</string>
-    <string name="all_app_category_lifestyle">Stile di vita</string>
+    <string name="all_app_category_lifestyle">Servizi</string>
     <string name="all_app_category_news_reading">Notizie e Lettura</string>
     <string name="all_app_category_personal">Personale</string>
     <string name="all_app_category_personalization">Personalizzazione</string>
@@ -123,7 +123,7 @@
     <string name="app_category_finance">Finanza</string>
     <string name="app_category_games">Giochi</string>
     <string name="app_category_health">Salute</string>
-    <string name="app_category_lifestyle">Stile di vita</string>
+    <string name="app_category_lifestyle">Servizi</string>
     <string name="app_category_music_movie">TV e Musica</string>
     <string name="app_category_news">Notizie</string>
     <string name="app_category_photos">Fotografia</string>
@@ -353,6 +353,7 @@
     <string name="gadget_search_label">Cerca</string>
     <string name="gadget_weather_title">Meteo</string>
     <string name="global_search">Cerca</string>
+    <string name="global_shelf">Trova app</string>
     <string name="got_it_botton">Ho capito</string>
     <string name="guide_install_app_msg">Questa applicazione non è installata sul tuo dispositivo. Trovarla ed installarla adesso?</string>
     <string name="guide_install_app_title">"Trovare ed installare un'applicazione?"</string>
@@ -360,6 +361,7 @@
     <string name="guide_privacy_dialog_title">Condizioni di utilizzo</string>
     <string name="home_gesture_content_center">Centro contenuti</string>
     <string name="home_gesture_global_search">Ricerca</string>
+    <string name="home_gesture_global_shelf">Trova app</string>
     <string name="home_gesture_no_action">Nessuno</string>
     <string name="home_gesture_notification_and_control_center">Area delle notifiche e Centro di controllo</string>
     <string name="home_gesture_notification_bar">Notifiche</string>
@@ -378,7 +380,7 @@
     <string name="international_home_pull_down_sub_content">Puoi cambiare questo gesto per aprire il Centro di controllo invece in Impostazioni > Schermata iniziale > Scorri verso il basso sulla schermata Home.</string>
     <string name="international_home_pull_down_up_btn_get">Ho capito</string>
     <string name="international_home_pull_up_content">"Scorri verso l'alto nella schermata Home per aprire il Centro contenuti."</string>
-    <string name="international_home_pull_up_sub_content">Per aprire la ricerca, scorri verso il basso dal centro della schermata Home.</string>
+    <string name="international_home_pull_up_sub_content">Per trovare le app e i suggerimenti delle app, scorri verso il basso dal centro della schermata Home.</string>
     <string name="item_view_role_description">Scheda</string>
     <string name="jeejen_description">"Elementi dell'interfaccia utente più grandi.
 Chiamate più accessibili.
@@ -443,7 +445,7 @@ Sicurezza avanzata."</string>
     <string name="mi_wallpaper">Temi MIUI</string>
     <string name="midnight">Notte</string>
     <string name="minus_one_screen">Assistente app</string>
-    <string name="miui_screen_config_title">Impostazioni schermata Home</string>
+    <string name="miui_screen_config_title">Layout schermata home</string>
     <string name="miui_setting_config_title">Impostazioni schermata Home</string>
     <string name="miui_widget_menu_replace_text">Sostituisci</string>
     <string name="miui_widget_toast_for_not_support_by_pa">Assistente app non supporta widget di queste dimensioni</string>
@@ -519,6 +521,7 @@ Sicurezza avanzata."</string>
     <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
     <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
     <string name="mtrl_picker_announce_current_selection">Selezione attuale: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Seleziona data</string>
     <string name="mtrl_picker_date_header_unselected">Data selezionata</string>
@@ -591,7 +594,7 @@ Sicurezza avanzata."</string>
     <string name="new_privacy_thumbnail_blur_summary">Sfoca le anteprime delle app in Recenti</string>
     <string name="new_recents_config_title">Altro</string>
     <string name="night">Sera</string>
-    <string name="no_space_toast">Spazio di archiviazione insufficiente</string>
+    <string name="no_space_toast">Spazio insufficiente</string>
     <string name="no_space_toast_fold">Spazio insufficiente</string>
     <string name="no_space_toast_when_click_widget">Spazio insufficiente su questa pagina. Prova a trascinare questo elemento su una pagina diversa.</string>
     <string name="noon">Mezzogiorno</string>
@@ -650,6 +653,7 @@ Sicurezza avanzata."</string>
     <string name="recent_menu_item_unlock">Sblocca</string>
     <string name="recent_menu_item_worldcirculate">"Trasferisci le attività dell'app"</string>
     <string name="recent_menu_item_worldcirculate_disable">"Impossibile trasferire le attività dell'app tra i dispositivi connessi"</string>
+    <string name="recent_pin_text">Sposta in alto</string>
     <string name="recents_app_info_button_label">Info app</string>
     <string name="recents_config_title">Recenti</string>
     <string name="recents_dimiss_task">Elimina</string>
@@ -731,6 +735,7 @@ Sicurezza avanzata."</string>
     <string name="small_window">Finestra a comparsa</string>
     <string name="start_activity_failed">Impossibile avviare il launcher</string>
     <string name="start_new_window">Nuova finestra</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s di %2$s disponibili</string>
     <string name="status_bar_recent_memory_info2" />
@@ -748,8 +753,10 @@ Sicurezza avanzata."</string>
     <string name="switch_personal_assistant_app_vault">Assistente app</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Nessuno</string>
+    <string name="switch_personal_assistant_summary">Scorri verso destra nella schermata Home per aprire Google Discover</string>
     <string name="switch_screen_button_order">"Inverti l'ordine dei tasti"</string>
     <string name="switch_screen_button_order_desc">"Inverti l'ordine dei tasti Indietro e Menu"</string>
+    <string name="system_sdk_disabled_toast">Il sistema SDK è stato disattivato. Attivalo.</string>
     <string name="system_shortcuts_edit">Modifica</string>
     <string name="system_shortcuts_icon_remove">Rimuovi</string>
     <string name="system_shortcuts_more_operation">Informazioni app</string>
